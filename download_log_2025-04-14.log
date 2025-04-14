@@ -1,0 +1,73 @@
+[2025-04-14 11:15:06] Accessing https://www.nseindia.com/all-reports...
+[2025-04-14 11:15:39] Report_Found 10 Downloading...
+[2025-04-14 11:15:39] Downloading...: new_bhavcopy_format_readme.xlsx from https://nsearchives.nseindia.com/content/new_bhavcopy_format_readme.xlsx
+[2025-04-14 11:15:39] Downloaded: new_bhavcopy_format_readme.xlsx
+[2025-04-14 11:15:40] Downloading...: MA110425.csv from https://nsearchives.nseindia.com/archives/equities/mkt/MA110425.csv
+[2025-04-14 11:15:40] Downloaded: MA110425.csv
+[2025-04-14 11:15:40] Downloading...: top10nifty50_110425.csv from https://nsearchives.nseindia.com/content/indices/top10nifty50_110425.csv
+[2025-04-14 11:15:40] Downloaded: top10nifty50_110425.csv
+[2025-04-14 11:15:40] Downloading...: BhavCopy_NSE_CM_0_0_0_20250411_F_0000.csv.zip from https://nsearchives.nseindia.com/content/cm/BhavCopy_NSE_CM_0_0_0_20250411_F_0000.csv.zip
+[2025-04-14 11:15:40] Downloaded: BhavCopy_NSE_CM_0_0_0_20250411_F_0000.csv.zip
+[2025-04-14 11:15:40] Downloading...: SLB_ELG_SEC_11042025.csv from https://nsearchives.nseindia.com/archives/slbs/seclist/SLB_ELG_SEC_11042025.csv
+[2025-04-14 11:15:40] Downloaded: SLB_ELG_SEC_11042025.csv
+[2025-04-14 11:15:40] Downloading...: eq_band_changes_11042025.csv from https://nsearchives.nseindia.com/content/equities/eq_band_changes_11042025.csv
+[2025-04-14 11:15:40] Downloaded: eq_band_changes_11042025.csv
+[2025-04-14 11:15:40] Downloading...: CMVOLT_11042025.CSV from https://nsearchives.nseindia.com/archives/nsccl/volt/CMVOLT_11042025.CSV
+[2025-04-14 11:15:41] Downloaded: CMVOLT_11042025.CSV
+[2025-04-14 11:15:41] Downloading...: MTO_11042025.DAT from https://nsearchives.nseindia.com/archives/equities/mto/MTO_11042025.DAT
+[2025-04-14 11:15:41] Downloaded: MTO_11042025.DAT
+[2025-04-14 11:15:41] Downloading...: AUB_2025069_11042025.csv from https://nsearchives.nseindia.com/content/nsccl/AUB_2025069_11042025.csv
+[2025-04-14 11:15:41] Downloaded: AUB_2025069_11042025.csv
+[2025-04-14 11:15:41] Downloading...: cat_turnover_110425.xls from https://nsearchives.nseindia.com/archives/equities/cat/cat_turnover_110425.xls
+[2025-04-14 11:15:41] Retry1 for cat_turnover_110425.xls
+[2025-04-14 11:15:44] Retry2 for cat_turnover_110425.xls
+[2025-04-14 11:15:50] Retry3 for cat_turnover_110425.xls
+[2025-04-14 11:15:52] All Report Successfully Downloaded: C:\Users\Abinash\Desktop\Nse_bot\Nse_Reports
+[2025-04-14 11:20:29] Email sent to abinash3373@gmail.com: Login Successful
+[2025-04-14 11:20:31] Columns in C:\Users\Abinash\Desktop\Nse_bot\Nse_Reports\CSV_Files\2025-04-14\AUB_2025069_11042025.csv: ['Confirmed list of securities to be auctioned in A 2025069 to be held on Apr 11 2025.']
+[2025-04-14 11:20:31] Columns in C:\Users\Abinash\Desktop\Nse_bot\Nse_Reports\CSV_Files\2025-04-14\CMVOLT_11042025.CSV: ['Date', 'Symbol', 'Underlying Close Price (A)', 'Underlying Previous Day Close Price (B)', 'Underlying Log Returns (C) = LN(A/B)', 'Previous Day Underlying Volatility (D)', 'Current Day Underlying Daily Volatility (E) = Sqrt(0.995*D*D + 0.005*C*C)', 'Underlying Annualised Volatility (F) = E*Sqrt(365)']
+[2025-04-14 11:20:31] Columns in C:\Users\Abinash\Desktop\Nse_bot\Nse_Reports\CSV_Files\2025-04-14\eq_band_changes_11042025.csv: ['Sr. No', 'Symbol', 'Series', 'Security Name', 'From', 'To']
+[2025-04-14 11:20:31] Columns in C:\Users\Abinash\Desktop\Nse_bot\Nse_Reports\CSV_Files\2025-04-14\MA110425.csv: ['Unnamed: 0', '11-Apr-2025']
+[2025-04-14 11:20:31] Columns in C:\Users\Abinash\Desktop\Nse_bot\Nse_Reports\CSV_Files\2025-04-14\SLB_ELG_SEC_11042025.csv: ['Sr.No.', 'Symbol', 'Series', 'Normal Eligibility', 'Recall Eligibility', 'Repay Eligibility', 'Market Type']
+[2025-04-14 11:20:31] Columns in C:\Users\Abinash\Desktop\Nse_bot\Nse_Reports\CSV_Files\2025-04-14\top10nifty50_110425.csv: ['SYMBOL', 'SECURITY', 'WEIGHTAGE(%)']
+[2025-04-14 11:20:31] Previewed AUB_2025069_11042025.csv successfully
+[2025-04-14 11:21:14] Columns in C:\Users\Abinash\Desktop\Nse_bot\Nse_Reports\CSV_Files\2025-04-14\AUB_2025069_11042025.csv: ['Confirmed list of securities to be auctioned in A 2025069 to be held on Apr 11 2025.']
+[2025-04-14 11:21:14] Columns in C:\Users\Abinash\Desktop\Nse_bot\Nse_Reports\CSV_Files\2025-04-14\CMVOLT_11042025.CSV: ['Date', 'Symbol', 'Underlying Close Price (A)', 'Underlying Previous Day Close Price (B)', 'Underlying Log Returns (C) = LN(A/B)', 'Previous Day Underlying Volatility (D)', 'Current Day Underlying Daily Volatility (E) = Sqrt(0.995*D*D + 0.005*C*C)', 'Underlying Annualised Volatility (F) = E*Sqrt(365)']
+[2025-04-14 11:21:14] Columns in C:\Users\Abinash\Desktop\Nse_bot\Nse_Reports\CSV_Files\2025-04-14\eq_band_changes_11042025.csv: ['Sr. No', 'Symbol', 'Series', 'Security Name', 'From', 'To']
+[2025-04-14 11:21:14] Columns in C:\Users\Abinash\Desktop\Nse_bot\Nse_Reports\CSV_Files\2025-04-14\MA110425.csv: ['Unnamed: 0', '11-Apr-2025']
+[2025-04-14 11:21:14] Columns in C:\Users\Abinash\Desktop\Nse_bot\Nse_Reports\CSV_Files\2025-04-14\SLB_ELG_SEC_11042025.csv: ['Sr.No.', 'Symbol', 'Series', 'Normal Eligibility', 'Recall Eligibility', 'Repay Eligibility', 'Market Type']
+[2025-04-14 11:21:14] Columns in C:\Users\Abinash\Desktop\Nse_bot\Nse_Reports\CSV_Files\2025-04-14\top10nifty50_110425.csv: ['SYMBOL', 'SECURITY', 'WEIGHTAGE(%)']
+[2025-04-14 11:21:14] Previewed AUB_2025069_11042025.csv successfully
+[2025-04-14 11:21:18] Columns in C:\Users\Abinash\Desktop\Nse_bot\Nse_Reports\CSV_Files\2025-04-14\AUB_2025069_11042025.csv: ['Confirmed list of securities to be auctioned in A 2025069 to be held on Apr 11 2025.']
+[2025-04-14 11:21:18] Columns in C:\Users\Abinash\Desktop\Nse_bot\Nse_Reports\CSV_Files\2025-04-14\CMVOLT_11042025.CSV: ['Date', 'Symbol', 'Underlying Close Price (A)', 'Underlying Previous Day Close Price (B)', 'Underlying Log Returns (C) = LN(A/B)', 'Previous Day Underlying Volatility (D)', 'Current Day Underlying Daily Volatility (E) = Sqrt(0.995*D*D + 0.005*C*C)', 'Underlying Annualised Volatility (F) = E*Sqrt(365)']
+[2025-04-14 11:21:18] Columns in C:\Users\Abinash\Desktop\Nse_bot\Nse_Reports\CSV_Files\2025-04-14\eq_band_changes_11042025.csv: ['Sr. No', 'Symbol', 'Series', 'Security Name', 'From', 'To']
+[2025-04-14 11:21:18] Columns in C:\Users\Abinash\Desktop\Nse_bot\Nse_Reports\CSV_Files\2025-04-14\MA110425.csv: ['Unnamed: 0', '11-Apr-2025']
+[2025-04-14 11:21:18] Columns in C:\Users\Abinash\Desktop\Nse_bot\Nse_Reports\CSV_Files\2025-04-14\SLB_ELG_SEC_11042025.csv: ['Sr.No.', 'Symbol', 'Series', 'Normal Eligibility', 'Recall Eligibility', 'Repay Eligibility', 'Market Type']
+[2025-04-14 11:21:18] Columns in C:\Users\Abinash\Desktop\Nse_bot\Nse_Reports\CSV_Files\2025-04-14\top10nifty50_110425.csv: ['SYMBOL', 'SECURITY', 'WEIGHTAGE(%)']
+[2025-04-14 11:21:18] Previewed AUB_2025069_11042025.csv successfully
+[2025-04-14 11:22:11] Columns in C:\Users\Abinash\Desktop\Nse_bot\Nse_Reports\CSV_Files\2025-04-14\AUB_2025069_11042025.csv: ['Confirmed list of securities to be auctioned in A 2025069 to be held on Apr 11 2025.']
+[2025-04-14 11:22:11] Columns in C:\Users\Abinash\Desktop\Nse_bot\Nse_Reports\CSV_Files\2025-04-14\CMVOLT_11042025.CSV: ['Date', 'Symbol', 'Underlying Close Price (A)', 'Underlying Previous Day Close Price (B)', 'Underlying Log Returns (C) = LN(A/B)', 'Previous Day Underlying Volatility (D)', 'Current Day Underlying Daily Volatility (E) = Sqrt(0.995*D*D + 0.005*C*C)', 'Underlying Annualised Volatility (F) = E*Sqrt(365)']
+[2025-04-14 11:22:11] Columns in C:\Users\Abinash\Desktop\Nse_bot\Nse_Reports\CSV_Files\2025-04-14\eq_band_changes_11042025.csv: ['Sr. No', 'Symbol', 'Series', 'Security Name', 'From', 'To']
+[2025-04-14 11:22:11] Columns in C:\Users\Abinash\Desktop\Nse_bot\Nse_Reports\CSV_Files\2025-04-14\MA110425.csv: ['Unnamed: 0', '11-Apr-2025']
+[2025-04-14 11:22:12] Columns in C:\Users\Abinash\Desktop\Nse_bot\Nse_Reports\CSV_Files\2025-04-14\SLB_ELG_SEC_11042025.csv: ['Sr.No.', 'Symbol', 'Series', 'Normal Eligibility', 'Recall Eligibility', 'Repay Eligibility', 'Market Type']
+[2025-04-14 11:22:12] Columns in C:\Users\Abinash\Desktop\Nse_bot\Nse_Reports\CSV_Files\2025-04-14\top10nifty50_110425.csv: ['SYMBOL', 'SECURITY', 'WEIGHTAGE(%)']
+[2025-04-14 11:22:12] Previewed AUB_2025069_11042025.csv successfully
+[2025-04-14 11:22:14] Accessing https://www.nseindia.com/all-reports
+[2025-04-14 11:22:37] Report_Found 10 Downloading...
+[2025-04-14 11:22:37] Skipping_Report(already exists): SLB_ELG_SEC_11042025.csv
+[2025-04-14 11:22:37] Skipping_Report(already exists): new_bhavcopy_format_readme.xlsx
+[2025-04-14 11:22:37] Skipping_Report(already exists): eq_band_changes_11042025.csv
+[2025-04-14 11:22:37] Skipping_Report(already exists): MTO_11042025.DAT
+[2025-04-14 11:22:37] Skipping_Report(already exists): CMVOLT_11042025.CSV
+[2025-04-14 11:22:37] Skipping_Report(already exists): AUB_2025069_11042025.csv
+[2025-04-14 11:22:37] Skipping_Report(already exists): top10nifty50_110425.csv
+[2025-04-14 11:22:37] Downloading...: cat_turnover_110425.xls from https://nsearchives.nseindia.com/archives/equities/cat/cat_turnover_110425.xls
+[2025-04-14 11:22:42] Retry1 for cat_turnover_110425.xls
+[2025-04-14 11:22:45] Retry2 for cat_turnover_110425.xls
+[2025-04-14 11:22:49] Retry3 for cat_turnover_110425.xls
+[2025-04-14 11:22:51] Skipping_Report(already exists): BhavCopy_NSE_CM_0_0_0_20250411_F_0000.csv.zip
+[2025-04-14 11:22:51] Skipping_Report(already exists): MA110425.csv
+[2025-04-14 11:22:51] All Reports Successfully Downloaded: C:\Users\Abinash\Desktop\Nse_bot\Nse_Reports (Average Speed: 0.00s/file)
+[2025-04-14 11:27:27] Email sent to abinash3373@gmail.com: Login Successful
+[2025-04-14 11:28:47] Feedback submitted by abinash1: Scheduler email not work properly
+[2025-04-14 11:29:09] Feedback submitted by abinash1: please reply fast
